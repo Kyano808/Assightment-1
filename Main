@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+
+
+int main(){
+    int num1=2;
+    int num2=1;
+    //  cout<< "Hello\n"<<num1<<    -  -<< num2 :
+    
+}
